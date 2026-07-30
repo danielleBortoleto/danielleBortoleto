@@ -1,7 +1,6 @@
 
 # Olá! Sou a Dani <img src="https://i.pinimg.com/originals/bb/14/58/bb14588d11515fa1fc75b39242bd6aaf.gif" width="100" align="right" />
 
-> "Faça ou não faça. A tentativa não existe." — Mestre Yoda
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&vCenter=true&width=600&lines=Analista+de+Software;Desenvolvedora+Back-end;Entusiasta+Java+e+Spring;Automa%C3%A7%C3%A3o+com+Python" alt="Typing SVG" />
